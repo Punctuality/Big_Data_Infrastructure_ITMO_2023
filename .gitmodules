@@ -10,3 +10,15 @@
 [submodule "Lab4"]
 	path = Lab4
 	url = git@github.com:Punctuality/Big_Data_Infrastructure_ITMO_2023_Lab_4.git
+[submodule "Lab5"]
+	path = Lab5
+	url = https://github.com/Punctuality/Big_Data_Infrastructure_ITMO_2023_Lab_5.git
+[submodule "Lab6"]
+	path = Lab6
+	url = https://github.com/Punctuality/Big_Data_Infrastructure_ITMO_2023_Lab_6.git
+[submodule "Lab7"]
+	path = Lab7
+	url = https://github.com/Punctuality/Big_Data_Infrastructure_ITMO_2023_Lab_7.git
+[submodule "Lab8"]
+	path = Lab8
+	url = https://github.com/Punctuality/Big_Data_Infrastructure_ITMO_2023_Lab_8.git
